@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xpratik" target="blank"><img src="https://img.shields.io/twitter/follow/0xpratik?logo=twitter&style=for-the-badge" alt="0xpratik" /></a> </p>
 
-- 🧱  currently bulding/growing **EigenLayer/EigenCloud** at the **Eigen Labs**
+- 🧱  currently bulding/growing **EigenLayer/EigenCloud** at **Eigen Labs**
 - 🔭  marketer | consumer crypto investor | public goods maximalist 
 - 💬  happy to discuss all things crypto -- onchain, infra, consumer social, defi, nfts
 - 📫  reach out to me on [X](https://x.com/0xpratik) (dms open 💌)
