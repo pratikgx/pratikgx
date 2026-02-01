@@ -6,9 +6,8 @@
 
 - 🧱  currently bulding/growing **EigenCloud** at **Eigen Labs**
 - 🔭  marketer | consumer crypto and ai investor | public goods maximalist 
-- 💬  happy to discuss all things crypto and ai
 - 📫  reach out to me on [X](https://x.com/0xpratik) (dms open 💌)
-- ♥️   i love national parks & maps
+- ♥️   i love national parks
 
 
 [![X: 0xpratik](https://img.shields.io/twitter/follow/0xpratik?style=social)](https://x.com/0xpratik)
