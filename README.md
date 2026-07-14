@@ -1,5 +1,3 @@
-<a href="https://github.com/pratikgx"><img src="https://ghchart.rshah.org/pratikgx" alt="pratikgx's GitHub contribution graph" /></a>
-
 ## Hey, I'm Pratik! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xpg&label=Views&color=blue&style=plastic" alt="pratikgx" /> </p>
