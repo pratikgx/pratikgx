@@ -1,4 +1,4 @@
-<a href="https://github.com/pratikgx"><img src="https://ghchart.rshah.org/pratikgx" alt="pratikgx's GitHub contribution graph" width="100%" /></a>
+<a href="https://github.com/pratikgx"><img src="https://ghchart.rshah.org/pratikgx" alt="pratikgx's GitHub contribution graph" /></a>
 
 ## Hey, I'm Pratik! 👋
 
