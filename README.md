@@ -12,4 +12,4 @@
 
 [![X: pratikg](https://img.shields.io/twitter/follow/pratikg?style=social)](https://x.com/pratikg)
 [![LinkedIn: Pratik Gandhi](https://img.shields.io/badge/-pratik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pratikgandhix/)](https://www.linkedin.com/in/pratikgandhix/)
-[![GitHub pratik](https://img.shields.io/github/followers/0xpg?label=follow&style=social)](https://github.com/0xpg)
+[![GitHub pratik](https://img.shields.io/github/followers/pratikgx?label=follow&style=social)](https://github.com/pratikgx)
