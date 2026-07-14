@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xpg&label=Views&color=blue&style=plastic" alt="pratikgx" /> </p>
 
-<p align="left"> <a href="https://twitter.com/0xpratik" target="blank"><img src="https://img.shields.io/twitter/follow/pratikgx?logo=twitter&style=for-the-badge" alt="0xpratik" /></a> </p>
+<p align="left"> <a href="https://x.com/pratikg" target="blank"><img src="https://img.shields.io/twitter/follow/pratikg?logo=twitter&style=for-the-badge" alt="pratikg" /></a> </p>
 
 - 🧱  currently accelerating ai and frontier research at **Eigen Labs**
 - 🔭  marketer | ai investor | 
