@@ -4,8 +4,8 @@
 
 <p align="left"> <a href="https://x.com/pratikg" target="blank"><img src="https://img.shields.io/twitter/follow/pratikg?logo=twitter&style=for-the-badge" alt="pratikg" /></a> </p>
 
-- 🧱  currently accelerating ai and frontier research at **Eigen Labs**
-- 🔭  marketer | ai investor | 
+- 🧱  accelerating the open frontier at **[Eigen Labs](https://eigenlabs.org/)**
+- 🌲  growing **[Darkbloom](https://darkbloom.dev/)**, **[Yukon](https://yukon.org/)**, **[EigenCloud](https://eigencloud.xyz/)** and **[PostAGI Podcast](https://postagi.xyz/)**
 - 📫  reach out to me on [X](https://x.com/pratikg) (dms open 💌)
 - ♥️   i love national parks
 
