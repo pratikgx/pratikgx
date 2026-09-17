@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://x.com/pratikg" target="blank"><img src="https://img.shields.io/twitter/follow/pratikg?logo=twitter&style=for-the-badge" alt="pratikg" /></a> </p>
 
 🧱  accelerating the open frontier at **[Eigen Labs](https://eigenlabs.org/)**<br>
-🌲  growing **[Darkbloom](https://darkbloom.dev/)**, **[Yukon](https://yukon.org/)**, **[EigenCloud](https://eigencloud.xyz/)** and **[PostAGI Podcast](https://postagi.xyz/)**<br>
+🌲  growing **[Darkbloom](https://www.darkbloom.ai/)**, **[Yukon](https://yukon.org/)**, **[EigenCloud](https://eigencloud.xyz/)** and **[PostAGI Podcast](https://postagi.xyz/)**<br>
 📫  reach out to me on [X](https://x.com/pratikg) (dms open 💌)<br>
 ♥️  i love national parks
 
